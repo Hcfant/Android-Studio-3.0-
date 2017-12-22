@@ -4,8 +4,8 @@
     1.1.2.执行Android程序
     1.1.3.构建简单的界面
     1.1.4.启动另一个Activity
-## 1.2.添加ActionBar
-    1.2.1.建立ActionBar
+## 1.2.添加应用栏ActionBar
+    1.2.1设置应用栏
     1.2.2.添加Action按钮
     1.2.3.自定义ActionBar的风格
     1.2.4.ActionBar的覆盖层叠
